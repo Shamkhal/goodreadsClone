@@ -1,3 +1,10 @@
-@import "../vendor/bootstrap/bootstrap.scss";
+@import '../vendor/bootstrap/bootstrap';
 @import "../vendor/fontawesome/font-awesome.scss";
+@import 'partials/search/style';
+@import "partials/_homepage.scss";
 @import "partials/_index.scss";
+@import "partials/header";
+@import "partials/profile";
+body{
+	
+}
